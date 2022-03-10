@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/Clion/minimum weight machine/cmake-build-debug/CMakeFiles/minimum_weight_machine.dir/embed.manifest"

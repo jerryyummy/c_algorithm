@@ -1,0 +1,6 @@
+"E:\clion\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\Clion\matrix
+CMake Error at CMakeLists.txt:2 (project):
+  project PROJECT called with incorrect number of arguments
+
+
+-- Configuring incomplete, errors occurred!

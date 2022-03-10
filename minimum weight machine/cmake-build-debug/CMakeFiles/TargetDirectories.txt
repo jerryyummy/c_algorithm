@@ -1,0 +1,3 @@
+D:/Clion/minimum weight machine/cmake-build-debug/CMakeFiles/minimum_weight_machine.dir
+D:/Clion/minimum weight machine/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Clion/minimum weight machine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
